@@ -1,4 +1,4 @@
-package com.zenAction.lspRule;
+package com.zenAction.Rule.lspRule;
 
 public class AUG extends Rifle {
 
